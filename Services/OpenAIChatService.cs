@@ -6,7 +6,7 @@ using Newtonsoft.Json;
 public class OpenAIChatService
 {
     private readonly HttpClient _httpClient;
-    private readonly string _apiKey = "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";
+    private readonly string _apiKey = "**************";
 
     public OpenAIChatService()
     {
